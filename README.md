@@ -15,6 +15,6 @@ I'm 민재, a passionate developer interested in SSAFY. Welcome to my GitHub pro
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=calendar2&show_icons=true&theme=radical)
 
 <!-- 블로그 안내 -->
-## 블로그
+## Velog
 Check out my blog for more articles and tutorials!
 [![Velog](https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@calendar2)
