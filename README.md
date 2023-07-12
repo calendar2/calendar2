@@ -17,4 +17,4 @@ I'm 민재, a passionate developer interested in SSAFY. Welcome to my GitHub pro
 <!-- 블로그 안내 -->
 ## 블로그
 Check out my blog for more articles and tutorials!
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://velog.io/@calendar2)
+[![Velog](https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@calendar2)
